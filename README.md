@@ -1,2 +1,3 @@
-# react-js-component-library
-A reusable component library template, you can clone and modify it for your organisation accordingly
+# A Light weight Component Library from GoApptiv
+
+A reusable component library.
